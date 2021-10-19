@@ -1,0 +1,30 @@
+﻿<SettingModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <weighAddress>COM10</weighAddress>
+  <weighBaudRate>9600</weighBaudRate>
+  <workOrder>W2B25A</workOrder>
+  <operatorID>TEC0388</operatorID>
+  <lineName>ASM1</lineName>
+  <lineNumber>1</lineNumber>
+  <stationNumber>1</stationNumber>
+  <jigNumber>1</jigNumber>
+  <operationCodeList />
+  <baseRoutingName />
+  <baseRoutingVersion />
+  <productName>GW040Hv2</productName>
+  <productCode>HY5NPE5N000002NP</productCode>
+  <upperLimit>0.5</upperLimit>
+  <lowerLimit>0.4</lowerLimit>
+  <UOM>kg</UOM>
+  <productID>120</productID>
+  <productionPlace>2</productionPlace>
+  <productionYear>2021</productionYear>
+  <productVersion>1</productVersion>
+  <macStripDistinctionCode>A06518=2,A4F4C2=3,D49AA0=4,CC7190=6</macStripDistinctionCode>
+  <printerName>Microsoft Print to PDF</printerName>
+  <Copies>1</Copies>
+  <numberSerialPerLabel>20</numberSerialPerLabel>
+  <layoutFileName>20SN_82.84x140.btw</layoutFileName>
+  <firmwareVersion>1.5.1.28</firmwareVersion>
+  <productColor>White</productColor>
+  <dateFormat>dd/MM/yyyy</dateFormat>
+</SettingModel>

@@ -1,0 +1,4 @@
+Product_code,Product_name,upper_limit_lower_limit,unit_of_measurement
+HY5NPE5N000002NP,GW020Hv1,25,3,g
+HY5NPE5N000002NP,GW020Hv2,0.5,0.4,kg
+HY5NPE5N000002NP,GW040Hv2,0.5,0.4,kg
